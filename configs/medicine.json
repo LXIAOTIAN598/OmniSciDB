@@ -1,0 +1,5 @@
+{
+  "domain": "Medicine",
+  "characteristics": "Evidence-based clinical reasoning, quantitative interpretation and differential diagnosis",
+  "scenario_requirements": "Use internally coherent synthetic cases, explicit units and sufficient evidence. Preserve all abstract roles and relations."
+}
